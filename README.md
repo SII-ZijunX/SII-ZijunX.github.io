@@ -17,8 +17,9 @@
 ## 内容依据与待补资料
 
 身份和中文姓名由本人提供。GitHub 账号 SII-ZijunX 由本人确认。
-简介和研究方向是根据论文主题撰写的初稿，需本人进一步润色；没有推断导师或入学时间。
-未提供的照片、邮箱、本硕经历、奖项、审稿服务未填写。
+About 中的导师、合作经历、研究兴趣和联系邮箱由本人提供；未推断入学时间。
+Research 栏目的论文主题归纳仍为初稿，可进一步润色。
+未提供的照片、本硕经历、奖项、审稿服务未填写。
 Google Scholar 资料读取日期：2026-11-03，https://scholar.google.com/citations?user=ja6JboUAAAAJ 。
 Scholar 列表中的 HELP 与 Maximizing Human Efficiency 为同一 arXiv:2607.09776 的不同标题，本页合并为一条，以最新标题及作者为准。
 仅收入该 Scholar 页面列出的 10 篇唯一论文；没有加入通过同名搜索发现的其他论文。
@@ -37,9 +38,9 @@ ForceWAM 的共同一作标记与原模板及公开项目资料一致。
 ## GitHub Pages
 
 目标仓库：SII-ZijunX/SII-ZijunX.github.io 。
-目标地址：https://sii-zijunx.github.io/ 。
-GitHub 仓库 Settings → Pages → Deploy from a branch → main / (root)。
-部署后提交到 main 的更新会自动发布。
+仓库目前为 Private，Pages 配置已移除。本地编辑和推送源码不代表授权重新公开发布。
+未来如需公开，原目标地址为 https://sii-zijunx.github.io/ 。
+只有本人明确要求重新上线后，才重新启用 GitHub Pages。
 
 - `images/cap.png`: https://arxiv.org/html/2609.11553v1/fig1_teaser.png
 - `images/help.png`: https://arxiv.org/html/2607.09776v2/SystemArchitecture.png
