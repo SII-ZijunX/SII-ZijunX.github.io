@@ -1,0 +1,251 @@
+[
+  {
+    "id": "forcewam",
+    "title": "ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation",
+    "authors": [
+      "Zijun Xu",
+      "Wendi Chen",
+      "Xinkai Wang",
+      "Jiachen Zou",
+      "Hongjin Chen",
+      "Hairuo Liu",
+      "Bokai Lin",
+      "Shihao Ma",
+      "Ke Ma",
+      "Zhiwei Zhang",
+      "Zhuohao Yan",
+      "Ke Wu",
+      "Haoming Song",
+      "Xueqi Li",
+      "Chuan Wen",
+      "Jieru Zhao",
+      "Wenchao Ding",
+      "Cewu Lu",
+      "Lixin Yang"
+    ],
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "short": "ForceWAM",
+    "selected": true,
+    "summary": "Learning visual and force futures from demonstrations, then translating them into contact-aware actions with experience from task-agnostic play.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2610.18852",
+      "Website": "https://force-wam.github.io/",
+      "Code": "https://github.com/SII-ZijunX/ForceWAM"
+    },
+    "image": "images/forcewam.png"
+  },
+  {
+    "id": "cap",
+    "title": "CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising",
+    "authors": [
+      "Hongjin Chen",
+      "Zijun Xu",
+      "Shihao Ma",
+      "Yi Zhao",
+      "Xilai Liu",
+      "Ke Ma",
+      "Wei Zhang",
+      "Chunyang Xie",
+      "Pengfei Li",
+      "Jieru Zhao",
+      "Wenchao Ding"
+    ],
+    "year": 2026,
+    "venue": "CoRL 2026",
+    "short": "CAP",
+    "selected": true,
+    "summary": "Robust humanoid locomotion across changing perception quality, combining learned depth denoising with proprioceptive information.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2609.11553"
+    },
+    "image": "images/cap.png"
+  },
+  {
+    "id": "help",
+    "title": "HELP: Human-Efficient Large-Scale Robot Post-Training with Rollout Segmentation",
+    "authors": [
+      "Shaopeng Zhai",
+      "Qi Zhang",
+      "Tianyi Zhang",
+      "Haoran Zhang",
+      "Fuxian Huang",
+      "Zhanhui Lin",
+      "Zijun Xu",
+      "Weinan Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "short": "HELP",
+    "selected": false,
+    "summary": "Human-efficient robot post-training through concurrent fleet supervision and automatic segmentation of useful rollout data.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2607.09776"
+    },
+    "image": "images/help.png"
+  },
+  {
+    "id": "pam",
+    "title": "Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding",
+    "authors": [
+      "Qingda Hu",
+      "Ziheng Qiu",
+      "Zijun Xu",
+      "Kaizhao Zhang",
+      "Xizhou Bu",
+      "Zuolei Sun",
+      "Bo Zhang",
+      "Jieru Zhao",
+      "Zhongxue Gan",
+      "Wenchao Ding"
+    ],
+    "year": 2026,
+    "venue": "IEEE RA-L 2026",
+    "short": "PAM",
+    "selected": true,
+    "summary": "Adaptive working memory for resolving visually ambiguous states in long-horizon robotic manipulation.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2512.24638",
+      "Website": "https://tinda24.github.io/pam/",
+      "Code": "https://github.com/tinda24/pam_code_public"
+    },
+    "image": "images/pam.png"
+  },
+  {
+    "id": "rhythm",
+    "title": "Rhythm: Learning Interactive Whole-Body Control for Dual Humanoids",
+    "authors": [
+      "Hongjin Chen",
+      "Wei Zhang",
+      "Pengfei Li",
+      "Shihao Ma",
+      "Ke Ma",
+      "Yujie Jin",
+      "Zijun Xu",
+      "Xiaohui Wang",
+      "Yupeng Zheng",
+      "Zining Wang",
+      "Jieru Zhao",
+      "Yilun Chen",
+      "Wenchao Ding"
+    ],
+    "year": 2026,
+    "venue": "RSS 2026",
+    "short": "Rhythm",
+    "selected": false,
+    "summary": "Learning physically coupled whole-body interactions for two humanoids, from motion retargeting to real-world deployment.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2603.02856"
+    },
+    "image": "images/rhythm.png"
+  },
+  {
+    "id": "cmoe",
+    "title": "CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots",
+    "authors": [
+      "Shihao Ma",
+      "Hongjin Chen",
+      "Zijun Xu",
+      "Yi Zhao",
+      "Ke Wu",
+      "Ruichen Yang",
+      "Leyao Zou",
+      "Zhongxue Gan",
+      "Wenchao Ding"
+    ],
+    "year": 2026,
+    "venue": "ICRA 2026",
+    "short": "CMoE",
+    "selected": false,
+    "summary": "Contrastive learning encourages terrain-specific expert specialization for humanoid motion control over diverse terrain.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2603.03067"
+    },
+    "image": "images/cmoe.jpg"
+  },
+  {
+    "id": "hgs-planner",
+    "title": "HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting",
+    "authors": [
+      "Zijun Xu",
+      "Rui Jin",
+      "Ke Wu",
+      "Yi Zhao",
+      "Zhiwei Zhang",
+      "Jieru Zhao",
+      "Fei Gao",
+      "Zhongxue Gan",
+      "Wenchao Ding"
+    ],
+    "year": 2025,
+    "venue": "ICRA 2025",
+    "short": "HGS-Planner",
+    "selected": true,
+    "summary": "Hierarchical active perception and planning for efficient scene reconstruction with 3D Gaussian Splatting.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2409.17624",
+      "Code": "https://github.com/zijunfdu/HGS-Planner"
+    },
+    "image": "images/hgs-planner.png"
+  },
+  {
+    "id": "drive-in-corridors",
+    "title": "Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning",
+    "authors": [
+      "Zhiwei Zhang",
+      "Ruichen Yang",
+      "Ke Wu",
+      "Zijun Xu",
+      "Jingchu Liu",
+      "Lisen Mu",
+      "Zhongxue Gan",
+      "Wenchao Ding"
+    ],
+    "year": 2025,
+    "venue": "IEEE RA-L 2025",
+    "short": "Drive in Corridors",
+    "selected": false,
+    "summary": "Using learned obstacle-free corridors to constrain trajectory optimization and improve end-to-end driving safety.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2504.07507"
+    },
+    "image": "images/drive-in-corridors.png"
+  },
+  {
+    "id": "ps-cc",
+    "title": "PS-CC: Planning by Simulation With Continuous Action Space Optimization and Adaptive Cost Learning for Human-Like Autonomous Driving",
+    "authors": [
+      "Tian Niu",
+      "Kaizhao Zhang",
+      "Zijun Xu"
+    ],
+    "year": 2025,
+    "venue": "IEEE RA-L 2025",
+    "short": "PS-CC",
+    "selected": false,
+    "summary": "Continuous-action planning with adaptive cost learning for human-like autonomous driving.",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/document/11072275/"
+    },
+    "image": null
+  },
+  {
+    "id": "aeroengine",
+    "title": "Hybrid Gaussian process regression with temporal feature extraction for partially interpretable remaining useful life interval prediction in Aeroengine prognostics",
+    "authors": [
+      "Tian Niu",
+      "Zijun Xu",
+      "Heng Luo",
+      "Ziqing Zhou"
+    ],
+    "year": 2025,
+    "venue": "Scientific Reports 2025",
+    "short": "Hybrid GPR",
+    "selected": false,
+    "summary": "Temporal feature extraction and hybrid Gaussian process regression for remaining useful life interval prediction.",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s41598-025-88703-z"
+    },
+    "image": null
+  }
+]
