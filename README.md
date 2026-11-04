@@ -22,8 +22,8 @@ Research 与 Education 于 2026-11-04 按参考模板合并为 About 下方的�
 Education 根据简历保留复旦与创智学院联培博士、复旦计算机技术硕士、吉林大学车辆工程本科；按本人要求不显示教育时间、不展示中南财经政法大学经历。未推断未提供的学位授予类型或硕士导师。
 DiffuView 的 Research 链接已与 CVPR 2026 官方论文目录核对；Publications 列表仍保留原先整理的 Scholar 条目。
 头像于 2026-11-04 从本人提供的简历中提取并加入主页；奖项与学术服务尚待进一步整理到页面。
-Experience 于 2026-11-04 根据本人提供的简历整理，收录 SII–Noematrix 联合实验室（2026.03–2026.08）、上海人工智能实验室（2026.03–2026.07）、美的 AI 研究院（2025.06–2025.11）三段经历。上海人工智能实验室的开始时间按本人后续更正改为 2026.03。职务按简历中的项目负责人/项目成员译为 Project Lead/Project Contributor；日期根据简历及本人更正记录整理。原简历文件未加入仓库。
-Experience 沿用参考模板的 timeline-logo、职位 @ 机构、简短方向描述及右侧日期样式。Research Contributor 表示科研项目参与者。
+Experience 于 2026-11-04 根据本人提供的简历及后续更正整理，收录 Noematrix（2026.03–2026.08）、上海人工智能实验室（2026.03–2026.07）、美的 AI 研究院（2025.06–2025.11）三段经历。上海人工智能实验室的开始时间按本人更正改为 2026.03；三段职位由本人确认统一为 Researcher；Noematrix 条目不再显示 SII 或联合实验室说明。原简历文件未加入仓库。
+Experience 沿用参考模板的 timeline-logo、职位 @ 机构、简短方向描述及右侧日期样式。
 Google Scholar 资料读取日期：2026-11-03，https://scholar.google.com/citations?user=ja6JboUAAAAJ 。
 Scholar 列表中的 HELP 与 Maximizing Human Efficiency 为同一 arXiv:2607.09776 的不同标题，本页合并为一条，以最新标题及作者为准。
 仅收入该 Scholar 页面列出的 10 篇唯一论文；没有加入通过同名搜索发现的其他论文。
