@@ -3,7 +3,6 @@
 .skip-link:focus { top: 12px; }
 .bio-paragraph { margin-top: 18px; font-size: 17px; line-height: 1.85; }
 .hero-portrait img { aspect-ratio: 1 / 1; object-fit: contain; }
-.interest-note { margin-top: 9px; color: var(--color-ink-muted); font-size: 14px; line-height: 1.65; }
 .education-logo-jilin { object-fit: cover; object-position: left center; }
 .pub-summary { margin-top: 11px; font-size: 14px; line-height: 1.7; }
 .paper-monogram { color: var(--color-primary); font: 500 32px var(--font-display); }
