@@ -11,7 +11,7 @@
 - `index.html`：简介、教育经历和论文列表，直接编辑即可。
 - `personal.css`：个人样式覆盖；`main.css` 保留原模板样式。
 - `site.js`：论文筛选、移动端菜单和返回顶部。
-- `images/`：论文插图。头像目前用姓名首字母占位；可以将 identity-panel 替换为带 alt 的 img。
+- `images/`：论文插图、机构图标与头像。`zijun-xu.png` 是从本人提供的简历中直接提取的原始 270 × 270 照片，以正方形比例显示。
 - `publications.json`：本次整理的论文资料备份；修改它不会自动修改 HTML。
 
 ## 内容依据与待补资料
@@ -19,7 +19,7 @@
 身份和中文姓名由本人提供。GitHub 账号 SII-ZijunX 由本人确认。
 About 中的导师、合作经历、研究兴趣和联系邮箱由本人提供；未推断入学时间。
 Research 栏目的论文主题归纳仍为初稿，可进一步润色。
-头像、完整教育经历、奖项与学术服务尚待进一步整理到页面。
+头像于 2026-11-04 从本人提供的简历中提取并加入主页；完整教育经历、奖项与学术服务尚待进一步整理到页面。
 Experience 于 2026-11-04 根据本人提供的简历整理，收录 SII–Noematrix 联合实验室（2026.03–2026.08）、上海人工智能实验室（2026.03–2026.07）、美的 AI 研究院（2025.06–2025.11）三段经历。上海人工智能实验室的开始时间按本人后续更正改为 2026.03。职务按简历中的项目负责人/项目成员译为 Project Lead/Project Contributor；日期根据简历及本人更正记录整理。原简历文件未加入仓库。
 Experience 沿用参考模板的 timeline-logo、职位 @ 机构、简短方向描述及右侧日期样式。Research Contributor 表示科研项目参与者。
 Google Scholar 资料读取日期：2026-11-03，https://scholar.google.com/citations?user=ja6JboUAAAAJ 。
