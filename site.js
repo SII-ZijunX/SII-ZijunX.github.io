@@ -71,5 +71,8 @@
         pageLinks.forEach(link => link.classList.toggle('is-current', link === current));
       });
     }, { rootMargin: '-35% 0px -60% 0px' });
-    sections.forEach(section => spyObserver.observe(section));
+    pageLinks.forEach(link => {
+      const target = document.querySelector(link.getAttribute('href'));
+      if (target) spyObserver.observe(target);
+    });
   }

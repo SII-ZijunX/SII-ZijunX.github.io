@@ -18,8 +18,10 @@
 
 身份和中文姓名由本人提供。GitHub 账号 SII-ZijunX 由本人确认。
 About 中的导师、合作经历、研究兴趣和联系邮箱由本人提供；未推断入学时间。
-Research 栏目的论文主题归纳仍为初稿，可进一步润色。
-头像于 2026-11-04 从本人提供的简历中提取并加入主页；完整教育经历、奖项与学术服务尚待进一步整理到页面。
+Research 与 Education 于 2026-11-04 按参考模板合并为 About 下方的双栏，手机端上下排列。研究方向根据本人介绍和简历中的项目归纳为具身智能与机器人学习、人形机器人控制、3D 感知与规划、多模态理解与生成。
+Education 根据简历保留复旦与创智学院联培博士、复旦计算机技术硕士、吉林大学车辆工程本科；按本人要求不显示教育时间、不展示中南财经政法大学经历。未推断未提供的学位授予类型或硕士导师。
+DiffuView 的 Research 链接已与 CVPR 2026 官方论文目录核对；Publications 列表仍保留原先整理的 Scholar 条目。
+头像于 2026-11-04 从本人提供的简历中提取并加入主页；奖项与学术服务尚待进一步整理到页面。
 Experience 于 2026-11-04 根据本人提供的简历整理，收录 SII–Noematrix 联合实验室（2026.03–2026.08）、上海人工智能实验室（2026.03–2026.07）、美的 AI 研究院（2025.06–2025.11）三段经历。上海人工智能实验室的开始时间按本人后续更正改为 2026.03。职务按简历中的项目负责人/项目成员译为 Project Lead/Project Contributor；日期根据简历及本人更正记录整理。原简历文件未加入仓库。
 Experience 沿用参考模板的 timeline-logo、职位 @ 机构、简短方向描述及右侧日期样式。Research Contributor 表示科研项目参与者。
 Google Scholar 资料读取日期：2026-11-03，https://scholar.google.com/citations?user=ja6JboUAAAAJ 。
@@ -41,6 +43,9 @@ CAP 和 CMoE 的 Website/Code 地址于 2026-11-04 根据各自官方项目页�
 Experience 的 Noematrix 图标沿用参考模板的 images/noematrix-logo.png；上海人工智能实验室与美的标识来自各自官网，保存在本地，不通过第三方图标服务加载：
 - https://www.shlab.org.cn/static/asset/img/share-logo.png
 - https://cn-res.midea.com/content/dam/mideacn-aem/test/logo-1x.png
+Education 的 SII 标识沿用参考模板；复旦和吉林大学标识来自学校官网：
+- https://www.fudan.edu.cn/_upload/tpl/00/0e/14/template14/images/favicon.ico
+- https://www.jlu.edu.cn/images/logo.jpg
 
 ## GitHub Pages
 

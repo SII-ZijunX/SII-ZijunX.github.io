@@ -3,16 +3,11 @@
 .skip-link:focus { top: 12px; }
 .bio-paragraph { margin-top: 18px; font-size: 17px; line-height: 1.85; }
 .hero-portrait img { aspect-ratio: 1 / 1; object-fit: contain; }
-.research-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 18px; }
-.research-card { padding: 23px; border: 1px solid var(--color-line); border-radius: 12px; background: var(--color-paper-raised); }
-.research-number { font: 14px var(--font-mono); color: var(--color-gold); }
-.research-card h3 { margin: 15px 0 12px; color: var(--color-ink); font: 600 22px/1.2 var(--font-display); }
-.research-card p { color: var(--color-ink-muted); font-size: 14px; line-height: 1.75; }
-.research-card .interest-links { margin-top: 18px; }
+.interest-note { margin-top: 9px; color: var(--color-ink-muted); font-size: 14px; line-height: 1.65; }
+.education-logo-jilin { object-fit: cover; object-position: left center; }
 .pub-summary { margin-top: 11px; font-size: 14px; line-height: 1.7; }
 .paper-monogram { color: var(--color-primary); font: 500 32px var(--font-display); }
 .pub-left:focus-visible { outline-offset: 4px; }
 .footer-name span { font-size: .75em; margin-left: .35em; }
-@media (max-width: 900px) { .research-grid { grid-template-columns: 1fr; } }
 @media (max-width: 400px) { .wrapper { padding-left: 22px; padding-right: 22px; } .hero-name { font-size: 43px; } }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
