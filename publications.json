@@ -57,7 +57,9 @@
     "selected": true,
     "summary": "Robust humanoid locomotion across changing perception quality, combining learned depth denoising with proprioceptive information.",
     "links": {
-      "Paper": "https://arxiv.org/abs/2609.11553"
+      "Paper": "https://arxiv.org/abs/2609.11553",
+      "Website": "https://hoshi-no-ai.github.io/CAP/",
+      "Code (coming soon)": "https://github.com/Hoshi-No-Ai/CAP"
     },
     "image": "images/cap.png"
   },
@@ -164,7 +166,9 @@
     ],
     "summary": "Contrastive learning encourages terrain-specific expert specialization for humanoid motion control over diverse terrain.",
     "links": {
-      "Paper": "https://arxiv.org/abs/2603.03067"
+      "Paper": "https://arxiv.org/abs/2603.03067",
+      "Website": "https://hoshi-no-ai.github.io/CMoE/",
+      "Code": "https://github.com/Hoshi-No-Ai/CMoE"
     },
     "image": "images/cmoe.jpg"
   },

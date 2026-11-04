@@ -27,6 +27,7 @@ CAP/CMoE/Rhythm 的会议名称来自其 arXiv 页面当前的 Accepted at 说�
 Selected 显示 5 篇代表作：ForceWAM、CAP、PAM、CMoE 和 HGS-Planner；All 显示全部 10 篇。
 ForceWAM 的共同一作标记与原模板及公开项目资料一致。
 CMoE 为 ICRA 2026 论文，Shihao Ma、Hongjin Chen、Zijun Xu 的共同一作星号由本人于 2026-11-04 确认；不额外显示共同一作标签。
+CAP 和 CMoE 的 Website/Code 地址于 2026-11-04 根据各自官方项目页核对，均使用 Hoshi-No-Ai 账号下的项目及仓库。CMoE 已包含实现代码；CAP 仓库仍注明代码待发布，因此显示 Code (coming soon)。
 
 ## 来源与署名
 
