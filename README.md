@@ -24,8 +24,9 @@ Google Scholar 资料读取日期：2026-11-03，https://scholar.google.com/cita
 Scholar 列表中的 HELP 与 Maximizing Human Efficiency 为同一 arXiv:2607.09776 的不同标题，本页合并为一条，以最新标题及作者为准。
 仅收入该 Scholar 页面列出的 10 篇唯一论文；没有加入通过同名搜索发现的其他论文。
 CAP/CMoE/Rhythm 的会议名称来自其 arXiv 页面当前的 Accepted at 说明。
-Selected 是初稿的代表作选择，不意味着只有这几篇已发表；All 显示全部 10 篇。
+Selected 显示 5 篇代表作：ForceWAM、CAP、PAM、CMoE 和 HGS-Planner；All 显示全部 10 篇。
 ForceWAM 的共同一作标记与原模板及公开项目资料一致。
+CMoE 为 ICRA 2026 论文，徐梓钧的共同一作身份由本人于 2026-11-04 确认。
 
 ## 来源与署名
 

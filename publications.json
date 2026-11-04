@@ -156,7 +156,8 @@
     "year": 2026,
     "venue": "ICRA 2026",
     "short": "CMoE",
-    "selected": false,
+    "selected": true,
+    "owner_contribution": "Co-first author",
     "summary": "Contrastive learning encourages terrain-specific expert specialization for humanoid motion control over diverse terrain.",
     "links": {
       "Paper": "https://arxiv.org/abs/2603.03067"
