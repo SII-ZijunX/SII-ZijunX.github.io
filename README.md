@@ -51,9 +51,9 @@ Education 的 SII 标识沿用参考模板；复旦和吉林大学标识来自�
 ## GitHub Pages
 
 目标仓库：SII-ZijunX/SII-ZijunX.github.io 。
-仓库目前为 Private，Pages 配置已移除。本地编辑和推送源码不代表授权重新公开发布。
-未来如需公开，原目标地址为 https://sii-zijunx.github.io/ 。
-只有本人明确要求重新上线后，才重新启用 GitHub Pages。
+本人于 2026-11-04 明确要求公开仓库并重新上线主页。
+公开地址：https://sii-zijunx.github.io/ 。
+发布源为 main 分支根目录，后续推送到 main 的变更将通过 GitHub Pages 发布。
 
 - `images/cap.png`: https://arxiv.org/html/2609.11553v1/fig1_teaser.png
 - `images/help.png`: https://arxiv.org/html/2607.09776v2/SystemArchitecture.png
