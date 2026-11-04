@@ -157,7 +157,11 @@
     "venue": "ICRA 2026",
     "short": "CMoE",
     "selected": true,
-    "owner_contribution": "Co-first author",
+    "equal_contributors": [
+      "Shihao Ma",
+      "Hongjin Chen",
+      "Zijun Xu"
+    ],
     "summary": "Contrastive learning encourages terrain-specific expert specialization for humanoid motion control over diverse terrain.",
     "links": {
       "Paper": "https://arxiv.org/abs/2603.03067"
