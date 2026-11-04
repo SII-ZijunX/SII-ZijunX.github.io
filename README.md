@@ -37,7 +37,7 @@ CAP 和 CMoE 的 Website/Code 地址于 2026-11-04 根据各自官方项目页�
 ## 来源与署名
 
 主页布局和 main.css 改编自 https://github.com/SummerWXK/SummerWXK.github.io ，参考提交 5653b2e66b9ceef6d4f46caafd3d41c6c2a14e50。
-保留 Xinkai Wang 与其上游 Jun CEN 的页脚署名。未复制原作者的履历、头像、博客、站点验证文件和访客统计代码。
+按本人要求，页面不显示最后更新时间、模板来源和原始样式署名；模板来源仍记录于本 README。未复制原作者的履历、头像、博客、站点验证文件和访客统计代码。
 背景及本地字体延用参考模板；字体采用各自的 SIL OFL 1.1，许可证见 fonts/。
 论文插图来自作者公开论文或项目页；原作品权利归各权利人。
 每篇论文的标题、作者、年份、来源链接保存在 publications.json。
