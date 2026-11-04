@@ -17,6 +17,11 @@
 .paper-monogram { color: var(--color-primary); font: 500 32px var(--font-display); }
 .pub-left:focus-visible { outline-offset: 4px; }
 .footer-name span { font-size: .75em; margin-left: .35em; }
+.timeline-mark { display: grid; place-items: center; width: 48px; height: 48px; border: 1px solid var(--color-line); border-radius: 12px; background: var(--color-paper-raised); color: var(--color-primary); font: 500 10px var(--font-mono); }
+.experience-timeline .timeline-desc { margin-top: 10px; font-size: 14px; line-height: 1.75; }
+.experience-timeline .timeline-host { margin-top: 6px; }
+@media (max-width: 1100px) { .experience-timeline .timeline-item { grid-template-columns: 48px minmax(0,1fr); } .experience-timeline .timeline-date { grid-column: 2; grid-row: 2; padding-top: 3px; } }
+@media (max-width: 600px) { .experience-timeline .timeline-item { grid-template-columns: 44px minmax(0,1fr); gap: 6px 12px; } .timeline-mark { width: 44px; height: 44px; font-size: 9px; } .experience-timeline .timeline-date { white-space: normal; } }
 @media (max-width: 900px) { .research-grid { grid-template-columns: 1fr; } }
 @media (max-width: 800px) { .identity-panel { display: none; } .hero-inner { display: block; } }
 @media (max-width: 400px) { .wrapper { padding-left: 22px; padding-right: 22px; } .hero-name { font-size: 43px; } }

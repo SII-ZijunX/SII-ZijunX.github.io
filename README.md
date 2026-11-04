@@ -19,7 +19,8 @@
 身份和中文姓名由本人提供。GitHub 账号 SII-ZijunX 由本人确认。
 About 中的导师、合作经历、研究兴趣和联系邮箱由本人提供；未推断入学时间。
 Research 栏目的论文主题归纳仍为初稿，可进一步润色。
-未提供的照片、本硕经历、奖项、审稿服务未填写。
+头像、完整教育经历、奖项与学术服务尚待进一步整理到页面。
+Experience 于 2026-11-04 根据本人提供的简历整理，收录 SII–Noematrix 联合实验室（2026.03–2026.08）、上海人工智能实验室（2025.11–2026.07）、美的 AI 研究院（2025.06–2025.11）三段经历。职务按简历中的项目负责人/项目成员译为 Project Lead/Project Contributor；日期为项目起止时间，未推断正式雇佣或实习任职时间。原简历文件未加入仓库。
 Google Scholar 资料读取日期：2026-11-03，https://scholar.google.com/citations?user=ja6JboUAAAAJ 。
 Scholar 列表中的 HELP 与 Maximizing Human Efficiency 为同一 arXiv:2607.09776 的不同标题，本页合并为一条，以最新标题及作者为准。
 仅收入该 Scholar 页面列出的 10 篇唯一论文；没有加入通过同名搜索发现的其他论文。
