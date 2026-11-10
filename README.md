@@ -27,9 +27,10 @@ Experience 沿用参考模板的 timeline-logo、职位 @ 机构、简短方向�
 上海人工智能实验室的经历按本人确认的实际参与范围，突出真实机器人强化学习、VLA 后训练和策略优化，不展示 teleoperation 表述。HELP 的 12 机器人规模、自主 rollout、critic 引导的轨迹筛选与迭代训练机制依据 https://arxiv.org/html/2607.09776v2 中的框架及后训练章节。
 Google Scholar 资料读取日期：2026-11-03，https://scholar.google.com/citations?user=ja6JboUAAAAJ 。
 Scholar 列表中的 HELP 与 Maximizing Human Efficiency 为同一 arXiv:2607.09776 的不同标题，本页合并为一条，以最新标题及作者为准。
-仅收入该 Scholar 页面列出的 10 篇唯一论文；没有加入通过同名搜索发现的其他论文。
+论文列表包含该 Scholar 页面列出的 10 篇唯一论文，另按本人要求加入 Noe-0 研究博客。
 CAP/CMoE/Rhythm 的会议名称来自其 arXiv 页面当前的 Accepted at 说明。
-Selected 显示 5 篇代表作：ForceWAM、CAP、PAM、CMoE 和 HGS-Planner；All 显示全部 10 篇。
+Selected 显示 6 项代表作：ForceWAM、CAP、Noe-0、PAM、CMoE 和 HGS-Planner；All 显示全部 11 项。
+Noe-0 于 2026-11-10 按本人要求加入，署名为 Noematrix Team，类别为 Research Blog, 2026；不标注个人 Project Lead。简介由本人提供，标题、团队署名、年份和 BibTeX 与官方研究博客核对。
 ForceWAM 的共同一作标记与原模板及公开项目资料一致。
 CMoE 为 ICRA 2026 论文，Shihao Ma、Hongjin Chen、Zijun Xu 的共同一作星号由本人于 2026-11-04 确认；不额外显示共同一作标签。
 CAP 和 CMoE 的 Website/Code 地址于 2026-11-04 根据各自官方项目页核对，均使用 Hoshi-No-Ai 账号下的项目及仓库。CMoE 已包含实现代码；CAP 仓库仍注明代码待发布，因此显示 Code (coming soon)。
@@ -62,3 +63,5 @@ Education 的 SII 标识沿用参考模板；复旦和吉林大学标识来自�
 - `images/hgs-planner.png`: https://arxiv.org/html/2409.17624v1/teaser.png
 - `images/drive-in-corridors.png`: https://arxiv.org/html/2504.07507v2/pipeline5.png
 - `images/pam.png`: https://tinda24.github.io/pam/static/images/coarse.png
+
+- `images/noe-0.jpg`: https://lab.noematrix.ai/assets/editorial/noe0-research-teaser.jpg?v=20260825-1

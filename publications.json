@@ -64,6 +64,23 @@
     "image": "images/cap.png"
   },
   {
+    "id": "noe-0",
+    "title": "Noe-0 Research Preview: Breaking Through the Dexterity Bottleneck with End-to-End Non-Embodied Data",
+    "authors": [
+      "Noematrix Team"
+    ],
+    "year": 2026,
+    "venue": "Research Blog, 2026",
+    "short": "Noe-0",
+    "selected": true,
+    "summary": "Noe-0 is a full-stack effort in embodied foundation model pre-training, co-designing data, models, and infrastructure. Using non-embodied data throughout pre-training and post-training preserves natural motion to overcome the dexterity bottleneck. Joint action learning with pixel-space implicit world modeling improves transfer across embodiments, objects, and scenes. A traceable data pipeline and Data Agent connect collection, curation, and model feedback to accelerate dataset iteration.",
+    "links": {
+      "Blog": "https://lab.noematrix.ai/blog/1-noe-0-research-preview/",
+      "BibTeX": "https://wendichen.me/data/bibtex/Noe-0.bib"
+    },
+    "image": "images/noe-0.jpg"
+  },
+  {
     "id": "help",
     "title": "HELP: Human-Efficient Large-Scale Robot Post-Training with Rollout Segmentation",
     "authors": [
