@@ -17,6 +17,29 @@
     "image": "images/noe-0.jpg"
   },
   {
+    "id": "help",
+    "title": "HELP: Human-Efficient Large-Scale Robot Post-Training with Rollout Segmentation",
+    "authors": [
+      "Shaopeng Zhai",
+      "Qi Zhang",
+      "Tianyi Zhang",
+      "Haoran Zhang",
+      "Fuxian Huang",
+      "Zhanhui Lin",
+      "Zijun Xu",
+      "Weinan Zhang"
+    ],
+    "year": 2026,
+    "venue": "Technical Report, 2026",
+    "short": "HELP",
+    "selected": true,
+    "summary": "Human-efficient robot post-training through concurrent fleet supervision and automatic segmentation of useful rollout data.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2607.09776"
+    },
+    "image": "images/help.png"
+  },
+  {
     "id": "forcewam",
     "title": "ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation",
     "authors": [
@@ -79,29 +102,6 @@
       "Code (coming soon)": "https://github.com/Hoshi-No-Ai/CAP"
     },
     "image": "images/cap.png"
-  },
-  {
-    "id": "help",
-    "title": "HELP: Human-Efficient Large-Scale Robot Post-Training with Rollout Segmentation",
-    "authors": [
-      "Shaopeng Zhai",
-      "Qi Zhang",
-      "Tianyi Zhang",
-      "Haoran Zhang",
-      "Fuxian Huang",
-      "Zhanhui Lin",
-      "Zijun Xu",
-      "Weinan Zhang"
-    ],
-    "year": 2026,
-    "venue": "arXiv 2026",
-    "short": "HELP",
-    "selected": false,
-    "summary": "Human-efficient robot post-training through concurrent fleet supervision and automatic segmentation of useful rollout data.",
-    "links": {
-      "Paper": "https://arxiv.org/abs/2607.09776"
-    },
-    "image": "images/help.png"
   },
   {
     "id": "pam",

@@ -29,7 +29,8 @@ Google Scholar 资料读取日期：2026-11-03，https://scholar.google.com/cita
 Scholar 列表中的 HELP 与 Maximizing Human Efficiency 为同一 arXiv:2607.09776 的不同标题，本页合并为一条，以最新标题及作者为准。
 论文列表包含该 Scholar 页面列出的 10 篇唯一论文，另按本人要求加入 Noe-0 研究博客。
 CAP/CMoE/Rhythm 的会议名称来自其 arXiv 页面当前的 Accepted at 说明。
-Selected 显示 6 项代表作：Noe-0、ForceWAM、CAP、PAM、CMoE 和 HGS-Planner；All 显示全部 11 项。
+Selected 显示 7 项代表作：Noe-0、HELP、ForceWAM、CAP、PAM、CMoE 和 HGS-Planner；All 显示全部 11 项。
+HELP 按本人要求归类为 Technical Report, 2026，加入 Selected，排列于 Noe-0 之后、ForceWAM 之前。
 Noematrix 经历补充 Noe-0 的具身基础模型预训练与 world–action modeling 工作；Noe-0 在 Selected 列表置顶。
 Noe-0 于 2026-11-10 按本人要求加入，署名为 Noematrix Team，类别为 Research Blog, 2026；不标注个人 Project Lead。简介由本人提供，标题、团队署名、年份和 BibTeX 与官方研究博客核对。
 ForceWAM 的共同一作标记与原模板及公开项目资料一致。
